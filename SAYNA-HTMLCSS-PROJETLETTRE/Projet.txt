@@ -1,0 +1,39 @@
+GESTION DE PROJET
+
+I - STRUCTURE
+
+	[draft#0] V0.0.0 : production
+
+	[draft#1] V1.0.0 : semantique_bloc
+
+		[issue1] création fichier html et texte
+		[issue2] marquage de titre h1 sur "Re" et h2 sur trois en-têtes
+		[issue3] balisage liste aux dates de début des semestres, les sujets d'étude et les danses exotiques
+		[issue4] marquage et mise en forme des adresses
+
+	[draft#5] V2.0.0 : semantique_ligne
+
+		[issue5] marquage de l'importance des noms,  « Tél » et « e‑mail »
+		[issue6] indication des dates lisibles par la machine
+		[issue7] classification de 1ere adresse et date de la lettre dans « sender-column »
+		[issue8] marquage des cinq acronymes/abréviations
+		[issue9] balisage des six indices/exposants
+		[issue10] marquage d'importance des symboles « degré », « plus grand que » , « multiplier »
+		[issue11] ajout des deux hyperliens pointant http://example.com.
+		[issue12] marquage de la citation et la devise
+
+	[draft#13] V3.0.0 : Dans l'en‑tête du document
+
+		[issue13] balisage le jeu de caractères utf-8 en meta
+		[issue14] balisage de l'auteur de la lettre en meta
+		[issue15] marquage de CSS
+
+II - PLAN
+
+	master
+		develop
+			feature
+		develop
+			release
+	main
+		develop

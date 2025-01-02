@@ -1,0 +1,9 @@
+CAHIER DE CHARGE | PROJET BATMAN
+
+draft#1 : structure_html
+    issue#1 : edition_contenu
+    issue#2 : structure_css
+
+draft#3 : style_css
+    issue#3 : edition_css
+    issue#4 : animation_css

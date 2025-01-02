@@ -1,0 +1,13 @@
+Cahier de Charge | Projet | Structurer une page
+
+draft#1 : En-tête
+	issue#1 : Titre de la page
+	issue#2 : Le logo du site côte à côte
+	issue#3 : Menu de navigation
+
+draft#4 : Contenu principal
+	issue#4 : Deux colonnes (Bienvenue | Barre latérale)
+
+draft#5 : Pied de page
+	issue#5 : Droits d'auteur et crédits
+	issue#6 : Appliquer le CSS
